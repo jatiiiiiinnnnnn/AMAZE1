@@ -103,6 +103,9 @@ footer{
     margin-top: 3rem;
     margin-left: 7.165rem;
 }
+.services .list a{
+    color: black;
+}
 
 .services .list a:visited {
     color: blue; /* Change to your desired color */
