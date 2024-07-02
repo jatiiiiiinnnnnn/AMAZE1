@@ -139,3 +139,115 @@ footer{
 .logo{
     position: relative;
 }
+
+@media (max-width: 1200px) {
+    .logo p {
+        font-size: 1.1rem;
+    }
+    .amaze-system p {
+        font-size: 1.3rem;
+    }
+    .description {
+        font-size: 0.8rem;
+    }
+    .contact-line span {
+        font-size: 14px;
+    }
+    .contact-linex,
+    .contact-liney {
+        font-size: 11px;
+    }
+    .services p {
+        font-size: 1.3rem;
+    }
+    .list li {
+        font-size: 13px;
+    }
+    .last {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 992px) {
+    .logo p {
+        font-size: 1rem;
+    }
+    .amaze-system p {
+        font-size: 1.2rem;
+    }
+    .description {
+        font-size: 0.75rem;
+    }
+    .contact-line span {
+        font-size: 13px;
+    }
+    .contact-linex,
+    .contact-liney {
+        font-size: 10px;
+    }
+    .services p {
+        font-size: 1.2rem;
+    }
+    .list li {
+        font-size: 12px;
+    }
+    .last {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo p {
+        font-size: 0.9rem;
+    }
+    .amaze-system p {
+        font-size: 1.1rem;
+    }
+    .description {
+        font-size: 0.7rem;
+    }
+    .contact-line span {
+        font-size: 12px;
+    }
+    .contact-linex,
+    .contact-liney {
+        font-size: 9px;
+    }
+    .services p {
+        font-size: 1.1rem;
+    }
+    .list li {
+        font-size: 11px;
+    }
+    .last {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 576px) {
+    .logo p {
+        font-size: 0.8rem;
+    }
+    .amaze-system p {
+        font-size: 1rem;
+    }
+    .description {
+        font-size: 0.65rem;
+    }
+    .contact-line span {
+        font-size: 11px;
+    }
+    .contact-linex,
+    .contact-liney {
+        font-size: 8px;
+    }
+    .services p {
+        font-size: 1rem;
+    }
+    .list li {
+        font-size: 10px;
+    }
+    .last {
+        font-size: 11px;
+    }
+}
