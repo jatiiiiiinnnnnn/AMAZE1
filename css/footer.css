@@ -105,7 +105,8 @@ footer{
 }
 
 .services .list a:active,
-.services .list a:focus {
+.services .list a:focus,
+.services .list a:visitedx{
     color: blue; /* Change to your desired color */
 }
 .list {
