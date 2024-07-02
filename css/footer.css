@@ -104,11 +104,7 @@ footer{
     margin-left: 7.165rem;
 }
 
-.services .list a:active,
-.services .list a:focus,
-.services .list a:visited{
-    color: blue; /* Change to your desired color */
-}
+
 .list {
 
     list-style-type: none;
