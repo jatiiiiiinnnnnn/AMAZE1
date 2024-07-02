@@ -125,20 +125,23 @@
 .underline-input:focus,
 .phone:focus,
 .underline-input:valid,
-.phone:valid {
+.phone:valid,
+.form-group.mail {
     font-weight: bold;
     color: black; /* Change color to make it more readable */
 }
 
 .underline-input:-webkit-autofill,
-.phone:-webkit-autofill {
+.phone:-webkit-autofill,
+.form-group.mail:-webkit-autofill {
     -webkit-box-shadow: 0 0 0 1000px white inset;
     font-weight: bold;
     color: black; /* Ensure autofilled text remains bold and black */
 }
 
 .underline-input:valid,
-.phone:valid {
+.phone:valid,
+.form-group.mail {
     font-weight: bold;
     color: black; /* Ensure text remains black when the input is valid */
 }
