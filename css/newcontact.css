@@ -140,6 +140,7 @@
 }
 
 .underline-input:valid,
+.underline-input1:valid,
 .phone:valid {
     font-weight: bold;
     color: black; /* Ensure text remains black when the input is valid */
