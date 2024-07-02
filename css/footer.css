@@ -16,7 +16,7 @@ footer{
     align-items: start;
     gap: 10px;
     background-color: #f6f6f6;
-
+    border-bottom: 0.5px solid black;
 }
 .logo p {
     margin-left: 4.165rem;
