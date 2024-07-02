@@ -135,3 +135,7 @@ footer{
     line-height: 29.26px;
     text-align: center;
 }
+
+.logo{
+    position: relative;
+}
