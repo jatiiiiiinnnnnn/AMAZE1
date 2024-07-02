@@ -116,23 +116,21 @@
     background-color: transparent;
     outline: none;
 }
-.underline-input::placeholder, .underline-input1::placeholder,
+.underline-input::placeholder, 
 .phone::placeholder {
     color: #ccc; /* Placeholder text color */
     font-weight: 300; /* Placeholder text weight */
 }
+
 .underline-input:focus,
-.underline-input1:focus,
 .phone:focus,
 .underline-input:valid,
-.underline-input1:valid,
 .phone:valid {
     font-weight: bold;
     color: black; /* Change color to make it more readable */
 }
 
 .underline-input:-webkit-autofill,
-.underline-input1:-webkit-autofill,
 .phone:-webkit-autofill {
     -webkit-box-shadow: 0 0 0 1000px white inset;
     font-weight: bold;
@@ -140,7 +138,6 @@
 }
 
 .underline-input:valid,
-.underline-input1:valid,
 .phone:valid {
     font-weight: bold;
     color: black; /* Ensure text remains black when the input is valid */
