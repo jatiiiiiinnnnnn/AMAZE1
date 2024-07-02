@@ -41,6 +41,9 @@ footer{
     gap:0.8rem;
     flex-direction: column;
 }
+.msg{
+    margin-top: 2px;
+}
 
 
 .logo-images img {
