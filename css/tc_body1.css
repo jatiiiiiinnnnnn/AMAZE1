@@ -8,16 +8,16 @@
 }
 .body1_left{
     border-right:solid #272727 0.5px;
-
+    height: inherit;
 }
 .body1_mid{
      /* display: grid; */
-    
+    height: inherit;
 }
 .body1_mid1{
     margin-top: 3.25rem;
     margin-left: 2.25rem;
-
+    
 }
 .text_1{
     font-weight: 600;
@@ -84,7 +84,7 @@
     position: relative;
     /* transition:  13s ease-in-out; */
     /* background-size: cover; */
-   
+    height: inherit;
     
 
 }
