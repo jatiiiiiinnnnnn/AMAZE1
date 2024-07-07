@@ -252,6 +252,37 @@
         top: 86%;
     } 
 }
+@media (min-width:1202px) and (max-width: 1400px) {
+    .p1-tm1{
+        top: 7%;
+        left: 30%;
+    }
+    .p1-tm3{
+        top: 56.8%;
+        left: 30%;
+    }
+
+    .p1-tm2{
+        top: 31.5%;
+        left: 57.5%;
+    }
+    .p1-tm4{
+        top: 79%;
+        left: 57.5%;
+    }
+}
+
+@media (max-width: 1000px){
+    .imgtl2{
+        top: 19.62rem;
+        right: 0;
+    }
+
+    .imgtl4{
+        top: 58.91rem;
+        right: 0;
+    }
+}
 @media (max-width: 850px){
     .imgtl1 ,.imgtl2,.imgtl3 ,.imgtl4{
     width: 19.5rem;
