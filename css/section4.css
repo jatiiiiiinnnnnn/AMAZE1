@@ -246,3 +246,25 @@ body {
         top: 86%;
     } 
 }
+
+@media (min-width:1201px) and (max-width:1400px){
+    .p1-tm1{
+        top: 10%;
+        left: 57%;
+    }
+
+    .p1-tm3{
+        top: 59.8%;
+        left: 54.4%;
+    }
+
+    .p1-tm2{
+        top: 35%;
+        left: 30.5%;
+    }
+
+    .p1-tm4{
+        top: 83%;
+        left: 30.5%;
+    }
+}
