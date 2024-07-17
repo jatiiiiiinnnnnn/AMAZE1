@@ -11,13 +11,15 @@
     border-right:solid #272727 0.5px;
     /* max-width: 490px; */
 }
-.start_h_font{
-    font-weight: 700;
-    font-size: 1.25rem;
+.amaze{
+    width: 125px;
+    height: 44px;
+    margin-top: 1.2rem;
     margin-left: 2rem;
-    margin-top: 1.87rem;
-    font-family: Montserrat;
-    margin-right: 0;
+}
+.amazelogo{
+    width: 125px;
+    height: 44px;
 }
 .middle_h{
     display: flex;
